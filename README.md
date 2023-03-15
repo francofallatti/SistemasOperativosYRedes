@@ -17,7 +17,7 @@
 	1. punto3a.sh
 	2. punto3b.sh
 	
-##Preguntas de intro a C
+## Preguntas de intro a C
 1. Hacer un programa en C, que imprima en pantalla “hola mundo!”, compilarlo con gcc y ejecutarlo con ./
 	### $ nano helloWorld.c
 	### $ gcc helloWorld.c -o helloWorld -g
