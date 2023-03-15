@@ -15,3 +15,12 @@
 3. Describir linea por linea qué hacen los siguientes scripts
 	1. punto3a.sh
 	2. punto3b.sh
+	
+##Preguntas de intro a C
+1. Hacer un programa en C, que imprima en pantalla “hola mundo!”, compilarlo con gcc y ejecutarlo con ./
+	$ nano helloWorld.c
+	$ gcc helloWorld.c -o helloWorld -g
+	$ ./helloWorld
+	
+2. Hacer un script que compile y ejecute su programa C anterior
+	$ bash helloWorldScript.sh
